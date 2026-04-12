@@ -1,0 +1,16 @@
+{
+  "name": "walkthrough-skill",
+  "description": "Marketplace for the walkthrough pedagogical skill for Claude Code",
+  "owner": {
+    "name": "MaedaArthur",
+    "email": "maedaarthur1607@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "walkthrough",
+      "description": "Interactive guide for understanding any codebase — Learn mode and Debug mode",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}

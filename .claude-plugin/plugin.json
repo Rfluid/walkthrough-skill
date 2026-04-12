@@ -1,0 +1,13 @@
+{
+  "name": "walkthrough",
+  "description": "Interactive guide for understanding any codebase. Two modes: /walkthrough learn (pedagogical, with level inference and study plan) and /walkthrough debug (focused on resolving a specific problem).",
+  "version": "1.0.0",
+  "author": {
+    "name": "MaedaArthur",
+    "email": "maedaarthur1607@gmail.com"
+  },
+  "homepage": "https://github.com/MaedaArthur/walkthrough-skill",
+  "repository": "https://github.com/MaedaArthur/walkthrough-skill",
+  "license": "MIT",
+  "keywords": ["learning", "education", "debugging", "portfolio", "walkthrough"]
+}
