@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An adaptive, interactive guide for understanding any codebase — legacy code, open source projects, personal work, or anything in between. Two modes: **learn** for structured exploration and **debug** for pinpointing a specific problem. Adjusts explanation depth automatically based on vocabulary inferred from the user's responses, no questionnaires.
+An adaptive, interactive guide for understanding any codebase, legacy code, open source projects, personal work, or anything in between. Two modes: **learn** for structured exploration and **debug** for pinpointing a specific problem. Adjusts explanation depth automatically based on vocabulary inferred from the user's responses, no questionnaires.
 
 ---
 
