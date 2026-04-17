@@ -30,10 +30,12 @@ Always ask before starting. Never assume the user wants a full walkthrough, they
 ### Step 1 — Find existing context
 
 Before reading the code, look for:
-- `CLAUDE.md` at the project root
-- `README.md` or `README`
-- `docs/` folder
-- Header comments in main files
+- **Instruction Manifests:** `README.md`, or `CONTRIBUTING.md` for high-level rules.
+- **Agent Manifests:** `CLAUDE.md`, `AGENTS.md` or `AGENT.md` at the project root
+- **Project Knowledge:** The `docs/` folder or dedicated `/architecture` files for system design context.
+- **Agent Workspaces:** Specialized directories like `.agent/`, `.cursor/rules`, or `.windsurf/` that contain behavioral constraints.
+- **Embedded Guidelines:** Header comments in entry files or "Instruction" blocks at the top of main modules.
+- **Custom Prompts:** Any `.prompt/` or `.rules` files stored in the root or config directories.
 
 **If context found:** use as base. Read code only to fill what's missing.
 
